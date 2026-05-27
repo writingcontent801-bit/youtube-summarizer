@@ -1,4 +1,4 @@
-markdown# 🎬 YouTube Summarizer
+# 🎬 YouTube Summarizer
 
 تطبيق ذكي يلخص فيديوهات YouTube باستخدام الذكاء الاصطناعي!
 
