@@ -5,6 +5,6 @@ WORKDIR /app
 COPY backend/requirements.txt .
 RUN pip install -r requirements.txt
 
-COPY . .
+COPY backend/ .
 
 CMD ["gunicorn", "app:app", "--bind", "0.0.0.0:5000"]
